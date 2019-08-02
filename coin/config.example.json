@@ -1,0 +1,12 @@
+{
+    "ac_name": "MYCOIN",
+    "ac_supply": 77700000,
+    "ac_sapling": 1,
+    "ac_public": 1,
+    "ac_staked": 50,
+    "ac_reward": 640000000,
+    "ac_end": 7000000,
+    "ac_cc": 2,
+    "ac_ccenable": 229,
+    "addnode": "mycoin.seed.komodo.top"
+}
